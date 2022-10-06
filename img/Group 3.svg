@@ -1,0 +1,27 @@
+<svg width="734" height="640" viewBox="0 0 734 640" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="734" height="640" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_86" transform="translate(-0.00408719) scale(0.0013624 0.0015625)"/>
+</pattern>
+<image id="image0_1_86" width="740" height="640" xlink:href="img/home.png"/>
+</defs>
+<path d="M223 530.645L443.8 538.568L513 525V546.49L444.5 566L223 555.106V530.645Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M224 529.758V504L444.3 507.4L514 504V524.606L444.7 538L224 529.758Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M224 503V478H445H514V501L446 508L224 503Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M224 479V453.739L445.3 450L513 456.77V479H445" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M224 452.028V426.269L445.5 423L514 433.898V455L445 448.362L224 452.028Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 425.569V401.494L444 389L515 412.363V434L444 421.506L223 425.569Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 403.049V378.201L445.2 362L515 390.426V411L444.7 389.432L223 403.049Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 377.853V352.548L445.5 332L515 369.047V390L443 360.949L223 377.853Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 351.181V327.437L446 303L515 346.531V368L445.7 330.405L223 351.181Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 326.656V302.22L445.5 273L515 324.925V346L444.7 302.933L223 326.656Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 301.722V277.418L444.3 244L515 304.051V324L445 272.658L222 301.722Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 276.694V252.412L444.2 217L514 281.753V303L445.3 244.014L223 276.694Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 252.692V227.418L445.3 189L514 260.073V281L445 216.297L223 252.692Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 226.578V201.259L443.8 157L514 237.01V260L445 185.763L223 226.578Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M224 202V177L444 129L514 214V237L443.3 157.7L224 202Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 176.67V151.452L442.8 99L514 192.103V215L444.3 127.95L223 176.67Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 151.576V125.301L445 68L514 170.778V192L444.7 99.3284L223 151.576Z" fill="#3595F6" fill-opacity="0.75"/>
+
+</svg>
